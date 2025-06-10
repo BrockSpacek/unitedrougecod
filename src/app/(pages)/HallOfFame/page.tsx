@@ -1,8 +1,11 @@
+import HallOfFame from '@/components/HallOfFame'
 import React from 'react'
 
 const page = () => {
   return (
-    <div>page</div>
+    <div>
+        <HallOfFame />
+    </div>
   )
 }
 
