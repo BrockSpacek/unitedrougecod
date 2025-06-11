@@ -26,11 +26,11 @@ const HallOfFame = () => {
             <h1 className='text-white text-4xl text-center mt-2'>Denizen</h1>
             <div className='flex justify-center gap-4'>
                 <div className='text-white text-center mt-5 bg-[#BA181B] w-2/3 text-xl rounded-3xl border-white border-2 p-5'>
-                    <h1 className='underline text-3xl'>Bio</h1>
+                    <h1 className='font-bold text-4xl'>Bio</h1>
                     <p className='mt-4'>Lorem Text asjd asjdgnin asudng onas donioin aoisjdoing oin aosin oieng oin aoisnioenoginasio nioenaofn anoiasnf Lorem Text asjd asjdgnin asudng onas donioin aoisjdoing oin aosin oieng oin aoisnioenoginasio nioenaofn anoiasnf Lorem Text asjd asjdgnin asudng onas donioin aoisjdoing oin aosin oieng oin aoisnioenoginasio nioenaofn anoiasnf</p>
                  </div>
                 <div className='text-white text-center mt-5 bg-[#BA181B] w-1/3 text-xl rounded-3xl border-white border-2 p-5'>
-                    <h1 className='underline text-3xl'>Accolades</h1>
+                    <h1 className='font-bold text-4xl'>Accolades</h1>
                     <p className='mt-4 p-2'>Championships: 1 🏆</p>
                     <p className='p-2'>Seasons Played: 8 ✅</p>
                     <p className='p-2'>MVPs: 2 🥇</p>
@@ -56,11 +56,11 @@ const HallOfFame = () => {
             <h1 className='text-white text-4xl text-center mt-2'>BigDog</h1>
             <div className='flex justify-center gap-4'>
                 <div className='text-white text-center mt-5 bg-[#BA181B] w-2/3 text-xl rounded-3xl border-white border-2 p-5'>
-                    <h1 className='underline text-3xl'>Bio</h1>
+                    <h1 className='font-bold text-4xl'>Bio</h1>
                     <p className='mt-4'>Lorem Text asjd asjdgnin asudng onas donioin aoisjdoing oin aosin oieng oin aoisnioenoginasio nioenaofn anoiasnf Lorem Text asjd asjdgnin asudng onas donioin aoisjdoing oin aosin oieng oin aoisnioenoginasio nioenaofn anoiasnf Lorem Text asjd asjdgnin asudng onas donioin aoisjdoing oin aosin oieng oin aoisnioenoginasio nioenaofn anoiasnf</p>
                  </div>
                 <div className='text-white text-center mt-5 bg-[#BA181B] w-1/3 text-xl rounded-3xl border-white border-2 p-5'>
-                    <h1 className='underline text-3xl'>Accolades</h1>
+                    <h1 className='font-bold text-4xl'>Accolades</h1>
                     <p className='mt-4 p-2'>Championships: 1 🏆</p>
                     <p className='p-2'>Seasons Played: 8 ✅</p>
                     <p className='p-2'>MVPs: 2 🥇</p>
